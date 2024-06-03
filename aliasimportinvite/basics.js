@@ -1,4 +1,6 @@
 /*
+npm i @types/node
+
 add path alias in resolve in vite.config.ts file
 
 import { defineConfig } from 'vite';
